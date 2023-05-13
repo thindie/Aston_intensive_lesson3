@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aston_intensive_lesson3</string>
+    <string name="country">country</string>
+    <string name="lost_connection">"Connection is lost! No pictures showin'"</string>
+    <string name="hint_link">link..</string>
+    <string name="loading_image">loading image</string>
+    <string name="next_exercise">start second exercise</string>
+</resources>
